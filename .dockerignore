@@ -1,0 +1,12 @@
+# Jangan masukkan rahasia ke dalam image; .env dibaca saat container jalan (env_file di docker-compose.yml)
+.env
+.env.*
+.git
+.gitignore
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+db/
+*.md
+Cara-Run.txt

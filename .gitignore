@@ -1,0 +1,20 @@
+# Rahasia: password database dan pepper. JANGAN diunggah.
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Catatan pribadi (tidak ikut diunggah)
+Cara-Run.txt
+PANDUAN-*.md
